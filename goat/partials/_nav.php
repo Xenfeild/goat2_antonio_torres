@@ -20,6 +20,10 @@ $navItems = [
     "name" => "Liste goat",
     'url' => "liste-goat.php"
   ],
+  [
+    "name" => "New goat",
+    'url' => "new-goat.php"
+  ],
 ]
 
 ?>
